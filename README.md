@@ -10,12 +10,12 @@ El proyecto está organizado en un solo archivo:
 analisis_tiempos_atencion.ipynb
 
 Este notebook contiene:
-Generación del dataset
-Limpieza de datos
-Análisis Exploratorio de Datos (EDA)
-Gráficos y visualizaciones clave
-Conclusiones e insights
-Oportunidades de mejora
+Generación del dataset,
+Limpieza de datos,
+Análisis Exploratorio de Datos (EDA),
+Gráficos y visualizaciones clave,
+Conclusiones e insights,
+Oportunidades de mejora.
 
 📊 Descripción del Dataset
 
